@@ -30,7 +30,7 @@ Esse projeto consiste em apresentar uma landing page em que o foco é trazer int
 <p align="center">
   <img alt="projeto Fast-Food3" src="./img/lp3.png" width="100%">
 </p>
-<p> Link: <a href="https://prototip-landing-page-venda.netlify.app" target="_blank">https://prototip-landing-page-venda.netlify.app</a> </p>
+<a href="https://prototip-landing-page-venda.netlify.app" target="_blank">Clique aqui para visualizar a landing page.</a>
 
 
 
