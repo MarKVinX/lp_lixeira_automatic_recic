@@ -16,7 +16,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Projeto
 
-Esse projeto consiste em apresentar uma landing page em que o foco é trazer interesse e uma possível venda desse projeto que é baseado em um protótipo de uma Lixeira Automática Reciclável.
+Esse projeto consiste em apresentar uma landing page em que o foco é trazer interesse e uma possível venda desse protótipo de uma Lixeira Automática Reciclável.
 
 <br>
 <p align="center">
